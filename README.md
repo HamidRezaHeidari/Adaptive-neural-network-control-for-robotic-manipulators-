@@ -1,5 +1,5 @@
-# star if you like it ✨
-
+# Star if you like it ✨
+this project is about control a 6-DOF
 <p align="center">
   <img title="Fig1" height="410" src="images/Figure_1.png">
   <br />
